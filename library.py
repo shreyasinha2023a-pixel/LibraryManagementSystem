@@ -4,7 +4,7 @@ def register_student(name):
 def login(username, password):
     print("Login successful")
 def issue_book(book_name):
-    print(f"{book_name} issued successfully")
+    print(f"{book_name} issued to student")
 
 
 
